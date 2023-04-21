@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/app-shapegithub.io/static/css/main.c4a37caf.css",
+    "main.css": "/app-shapegithub.io/static/css/main.7e3e6752.css",
     "main.js": "/app-shapegithub.io/static/js/main.50b039e9.js",
     "index.html": "/app-shapegithub.io/index.html",
-    "main.c4a37caf.css.map": "/app-shapegithub.io/static/css/main.c4a37caf.css.map",
+    "main.7e3e6752.css.map": "/app-shapegithub.io/static/css/main.7e3e6752.css.map",
     "main.50b039e9.js.map": "/app-shapegithub.io/static/js/main.50b039e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4a37caf.css",
+    "static/css/main.7e3e6752.css",
     "static/js/main.50b039e9.js"
   ]
 }
